@@ -37,7 +37,9 @@ The goal of this Power BI dashboard is to analyze mobile sales performance acros
 • DAX Calculations:
 
 ---- Total Sales, Quantity, Average Price
+
 ---- MTD, QTD, YTD Metrics
+
 ---- Same Period Last Year using SAMEPERIODLASTYEAR() function
 
 • Edit Interactions: Fine-tuned visual filtering across charts.
