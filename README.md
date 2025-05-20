@@ -51,8 +51,14 @@ The goal of this Power BI dashboard is to analyze mobile sales performance acros
 ## Dashboard:
 
 <a href="https://github.com/Sunil-Rathod/Mobile-Sales-Performance-Dashboard-Power-BI/blob/main/Mobile%20Sales%20Datashboard.pbix">View DashBoard- PBIX file</a>
+
+
 ![Dashboard 1](https://github.com/user-attachments/assets/12af656b-0bec-4fcf-a72c-028b430aff3a)
+
+
 ![Dashboard 2](https://github.com/user-attachments/assets/2e74fb2f-fa76-43ba-be2c-d42912f4a3f7)
+
+
 ![Dashboard 3](https://github.com/user-attachments/assets/ba8d0bfe-bb75-4f3e-b0d0-35516629c509)
 
 
