@@ -7,25 +7,25 @@ The goal of this Power BI dashboard is to analyze mobile sales performance acros
 
 
 ## KPIs & Metrics
-• Total Sales: ₹769M revenue from mobile sales.
+• **Total Sales:** ₹769M revenue from mobile sales.
 
-• Total Quantity: 19K units sold.
+• **Total Quantity:** 19K units sold.
 
-• Transactions: 4K completed sales transactions.
+• **Transactions:** 4K completed sales transactions.
 
-• Average Price: ₹40.11K per unit.
+• **Average Price:** ₹40.11K per unit.
 
-• Sales by City & Brand: Visual breakdown across Indian cities and brands like Apple, Samsung, OnePlus.
+• **Sales by City & Brand:** Visual breakdown across Indian cities and brands like Apple, Samsung, OnePlus.
 
-• Sales by Model: Tracks top-selling models (e.g., iPhone SE, Galaxy Note 20).
+• **Sales by Model:** Tracks top-selling models (e.g., iPhone SE, Galaxy Note 20).
 
-• Monthly Sales Trend: Quantity sold by month to identify seasonality.
+• **Monthly Sales Trend:** Quantity sold by month to identify seasonality.
 
-• Sales by Day: Highlights daily performance patterns.
+• **Sales by Day:** Highlights daily performance patterns.
 
-• Payment Method: UPI, Credit Card, and Cash usage in transactions.
+• **Payment Method:** UPI, Credit Card, and Cash usage in transactions.
 
-• Customer Ratings: Distribution of customer feedback (Good, Average).
+• **Customer Ratings:** Distribution of customer feedback (Good, Average).
 
 ## Process
 • Understanding of Data: Explored raw sales, transaction, and customer datasets.
